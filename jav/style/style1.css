@@ -1,0 +1,5 @@
+.function changeId()
+{
+	var element = document.getElementById('red')
+	element.id = 'blue'
+}
